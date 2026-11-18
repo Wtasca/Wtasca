@@ -1,4 +1,4 @@
-###William Tasca | Business Intelligence & Data Analytics###
+### William Tasca | Business Intelligence & Data Analytics 
 
 Welcome to my Business Intelligence and Data Analytics portfolio.
 
