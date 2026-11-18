@@ -1,4 +1,4 @@
-William Tasca | Business Intelligence & Data Analytics
+###William Tasca | Business Intelligence & Data Analytics###
 
 Welcome to my Business Intelligence and Data Analytics portfolio.
 
@@ -41,7 +41,7 @@ A marketing analytics solution examining advertising performance, customer acqui
 
 ## Connect With Me
 
-- LinkedIn: [Add your LinkedIn profile URL]
+- LinkedIn: [www.linkedin.com/in/william-tasca]
 - GitHub: [https://github.com/Wtasca](https://github.com/Wtasca)
 
 ---
